@@ -1,6 +1,7 @@
 ## *Sips from a Gray Cup*
 
 Our Websites
+- Main Website - [https://graycup.com](https://graycup.com)
 - Company Website - [https://graycup.org](https://graycup.org)
 - Consumer Store - [https://graycup.in](https://graycup.in)
 - B2B Store - [https://b2b.graycup.in](https://b2b.graycup.in)
